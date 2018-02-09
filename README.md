@@ -1,6 +1,7 @@
 [![Build Status](https://travis-ci.org/U-Network/UNetwork.svg?branch=master)](https://travis-ci.org/U-Network/UNetwork)
 
-# UNetwork 
+
+# UNetwork (Distributed Networks Architecture)
 
  UNetwork is a decentralized distributed network protocol based on blockchain technology and is implemented in Golang. Through peer-to-peer network, UNetwork can be used to digitize assets and provide financial service, including asset registration, issuance, transfer, etc.
 
@@ -324,7 +325,6 @@ looks like this:
 	Signed-off-by: Your Name <youremail@yourhost.com>
 
 # Community
-
 
 
 ## Site

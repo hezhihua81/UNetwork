@@ -1,6 +1,9 @@
 [![Build Status](https://travis-ci.org/U-Network/UNetwork.svg?branch=master)](https://travis-ci.org/U-Network/UNetwork)
 
-# UNetwork 
+
+
+# UNetwork (Distributed Networks Architecture)
+>>>>>>> Changed UGCNetwork -> UNetwork
 
 UNetwork是go语言实现的基于区块链技术的去中心化的分布式网络协议。可以用来数字化资产和金融相关业务包括资产注册，发行，转账等。
 
@@ -30,7 +33,9 @@ UNetwork是go语言实现的基于区块链技术的去中心化的分布式网�
 
 
 ```shell
+
 $ git clone https://github.com/U-Network/UNetwork.git
+
 ```
 
 用第三方包管理工具glide拉取依赖库
@@ -280,6 +285,7 @@ $ - 输入你的钱包口令
 
 使用方式参见：
 
+
 可用节点如下：
 ```
 IP               PORT
@@ -321,6 +327,7 @@ IP               PORT
 	Signed-off-by: Your Name <youremail@yourhost.com>
 
 # 开源社区
+
 
 
 ## 网站

@@ -22,7 +22,6 @@ import (
 	. "UNetwork/errors"
 	"UNetwork/sdk"
 
-
 	"github.com/mitchellh/go-homedir"
 )
 
